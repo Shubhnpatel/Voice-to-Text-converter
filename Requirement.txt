@@ -1,0 +1,35 @@
+---------------------- Voice to Text converter----------------------------
+
+These are the required libraries and the respective command to install them 
+
+In this project I have used python 3.11.5 and the following libraries
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Library for speech recognition :- SpeechRecognition
+
+
+command ----   pip install SpeechRecognition
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Library for fetching audio :- pyaudio
+
+
+command ----   pip install pyaudio
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Library for converting speech into text :- GTTS
+
+
+command ----   pip install gTTS
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Library for playing audio for greeting message :- pygame
+
+
+command ----   pip install pygame
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
